@@ -6,6 +6,21 @@ mds
 
 ![Alt text](images/Fig2.png?raw=true "Title")
 
+
+![Alt text](images/pipeling.png?raw=true "Title")
+
+
+![Alt text](images/pipeling2.png?raw=true "Title")
+
+
+![Alt text](images/rms-a.png?raw=true "Title")
+
+
+![Alt text](images/rms-b.png?raw=true "Title")
+
+
+![Alt text](images/ezgif.com-video-to-gif.gif?raw=true "Title")
+
 ## Instruccions:
 
 Clone the repository:
