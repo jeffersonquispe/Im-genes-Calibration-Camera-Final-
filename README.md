@@ -4,6 +4,8 @@ physical   parameters   of   the   camera,   as lenses or focal length, with the
 the geometry of the objects watched, parameters pattern detection is an important stage in Camera Calibration because this bring us the metrics to work with 3D images and Augmented Reality
 mds
 
+![Alt text](images/Fig2.png?raw=true "Title")
+
 ## Instruccions:
 
 Clone the repository:
