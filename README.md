@@ -6,6 +6,9 @@ mds
 
 ![Alt text](images/Fig2.png?raw=true "Title")
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](images/pipelining.png?raw=true "Title")  |  ![](images/pipelining2.png?raw=true "Title")
 
 ![Alt text](images/pipelining.png?raw=true "Title")
 
@@ -48,16 +51,6 @@ g++ main.cpp utils.cpp `pkg-config opencv --cflags --libs` -o main
 
 ```
 
-exe:
-```
-./output
-```
-## Document:
-To latex document visualization
-
-https://www.overleaf.com/read/khkqtvgrgzkd
-
-
 ## Calibrated Camera Chessboard -  Circles
 move to download file:
 
@@ -68,3 +61,10 @@ exec the next comand to run:
  ./output
 
 ```
+## Document:
+To latex document visualization
+
+https://www.overleaf.com/read/khkqtvgrgzkd
+
+## Video:
+https://www.youtube.com/watch?v=UnKER4F6m_U
