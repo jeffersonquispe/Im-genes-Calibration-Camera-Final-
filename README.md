@@ -1,10 +1,7 @@
-## Week  Five Fronto Paralell
-# Calibration Patron Detection Algorithm 
-CAMERA
-calibration  consist  on  check  the
-physical   parameters   of   the   camera,   as
-lenses or focal length, with the aim to determine
-the geometry of the objects watched.
+# Calibration Pattern Detection Algorithm 
+CAMERA calibration  consist  on  check  the
+physical   parameters   of   the   camera,   as lenses or focal length, with the aim to determine
+the geometry of the objects watched, parameters pattern detection is an important stage in Camera Calibration because this bring us the metrics to work with 3D images and Augmented Reality
 mds
 
 ## Instruccions:
