@@ -6,21 +6,14 @@ mds
 
 ![Alt text](images/Fig2.png?raw=true "Title")
 
-Solarized dark             |  Solarized Ocean
+Pipeline 1           |  Pipeline 2
 :-------------------------:|:-------------------------:
 ![](images/pipelining.png?raw=true "Title")  |  ![](images/pipelining2.png?raw=true "Title")
 
-![Alt text](images/pipelining.png?raw=true "Title")
 
-
-![Alt text](images/pipelining2.png?raw=true "Title")
-
-
-![Alt text](images/rms-a.jpg?raw=true "Title")
-
-
-![Alt text](images/rms-b.jpg?raw=true "Title")
-
+RMS Livecam de Microsoft          |  RMS camera web Playstation 3
+:-------------------------:|:-------------------------:
+![](images/rms-a.jpg?raw=true "Title")  |  ![](images/rms-b.jpg?raw=true "Title")
 
 ![Alt text](images/ezgif.com-video-to-gif.gif?raw=true "Title")
 
