@@ -25,7 +25,7 @@ mds
 
 Clone the repository:
 ```
-git clone https:https://github.com/jeffersonquispe/ImagenesSemana1.git
+https://github.com/jeffersonquispe/Im-genes-Calibration-Camera-Final-.git
 ``` 
 
 ### install requeriments to linux
@@ -37,13 +37,14 @@ apt install libopencv-dev
 ```
 
 
-### Calibrated Camera RIngs
+### Calibrated Camera Rings
 move to download file:
 
-exec the next comand to run:
+exec the next comand to run on the root:
 
 ```
- g++ preprocessing.cpp -o output `pkg-config --cflags --libs opencv`
+g++ main.cpp utils.cpp `pkg-config opencv --cflags --libs` -o main
+./main
 
 ```
 
@@ -54,7 +55,7 @@ exe:
 ## Document:
 To latex document visualization
 
-https://www.overleaf.com/read/hfjrystrfdfv
+https://www.overleaf.com/read/khkqtvgrgzkd
 
 
 ## Calibrated Camera Chessboard -  Circles
@@ -63,12 +64,7 @@ move to download file:
 exec the next comand to run:
 
 ```
- g++ -std=c++11 -O3 main.cpp addfunctions.cpp `pkg-config opencv --cflags --libs` -o main && 
+ g++ camera_calibration.cpp `pkg-config opencv --cflags --libs` -o output
+ ./output
 
-
-```
-
-exe:
-```
-./main
 ```
